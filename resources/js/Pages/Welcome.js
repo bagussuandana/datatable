@@ -15,7 +15,7 @@ export default function Welcome(props) {
                     </div>
                     <div className="mt-8 overflow-hidden sm:rounded-lg shadow">
                         <div className="grid grid-cols-1 md:grid-cols-2">
-                            <a href="https://www.arch.visiarch.com" className="bg-white hover:bg-gray-50">
+                            <a href="https://www.a.visiarch.com" className="bg-white hover:bg-gray-50">
                                 <div className="p-6 border-b md:border-0">
                                     <div className="flex items-center">
                                         <svg
@@ -40,7 +40,7 @@ export default function Welcome(props) {
                                     </div>
                                 </div>
                             </a>
-                            <a href="https://www.dev.visiarch.com" className="bg-white hover:bg-gray-50">
+                            <a href="https://www.d.visiarch.com" className="bg-white hover:bg-gray-50">
                                 <div className="p-6 border-l">
                                     <div className="flex items-center">
                                         <svg
