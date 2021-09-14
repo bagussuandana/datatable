@@ -4624,11 +4624,17 @@ function Welcome(props) {
         children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsx)("div", {
           className: "flex justify-center pt-8 sm:justify-start sm:pt-0",
           children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsxs)("h1", {
-            className: "text-3xl md:text-5xl",
+            className: "text-2xl md:text-3xl",
             children: ["VISIAR", /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsx)("span", {
               className: "text-red-500",
               children: "C"
             }), "H"]
+          })
+        }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsx)("div", {
+          className: "flex justify-center md:justify-start text-center md:text-left pt-15 mt-5 sm:pt-0",
+          children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsx)("h4", {
+            className: "text-3xl md:text-7xl text-gray-700",
+            children: "We're coming soon"
           })
         }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsx)("div", {
           className: "mt-8 overflow-hidden sm:rounded-lg shadow",

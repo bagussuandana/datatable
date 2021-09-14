@@ -8,7 +8,10 @@ export default function Welcome(props) {
             <div className="relative flex items-top justify-center min-h-screen bg-gray-100 dark:bg-gray-900 sm:items-center sm:pt-0">
                 <div className="max-w-6xl mx-auto sm:px-6 lg:px-8">
                     <div className="flex justify-center pt-8 sm:justify-start sm:pt-0">
-                        <h1 className="text-3xl md:text-5xl">VISIAR<span className="text-red-500">C</span>H</h1>
+                        <h1 className="text-2xl md:text-3xl">VISIAR<span className="text-red-500">C</span>H</h1>
+                    </div>
+                    <div className="flex justify-center md:justify-start text-center md:text-left pt-15 mt-5 sm:pt-0">
+                        <h4 className="text-3xl md:text-7xl text-gray-700">We're coming soon</h4>
                     </div>
                     <div className="mt-8 overflow-hidden sm:rounded-lg shadow">
                         <div className="grid grid-cols-1 md:grid-cols-2">
