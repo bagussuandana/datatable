@@ -4708,7 +4708,7 @@ function Welcome(props) {
             })
           }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsxs)("div", {
             className: "ml-4 text-center text-sm text-gray-500 sm:text-right sm:ml-0",
-            children: ["Laravel v", props.laravelVersion, " (PHP v", props.phpVersion, ")"]
+            children: ["use Laravel v", props.laravelVersion, " (PHP v", props.phpVersion, ") & InertiaJs"]
           })]
         })]
       })

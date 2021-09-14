@@ -71,7 +71,7 @@ export default function Welcome(props) {
                             </div>
                         </div>
                         <div className="ml-4 text-center text-sm text-gray-500 sm:text-right sm:ml-0">
-                            Laravel v{props.laravelVersion} (PHP v{props.phpVersion})
+                            use Laravel v{props.laravelVersion} (PHP v{props.phpVersion}) & InertiaJs
                         </div>
                     </div>
                 </div>
